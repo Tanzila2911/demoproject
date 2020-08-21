@@ -1,0 +1,18 @@
+.width80{
+    width: 80%;
+}
+.card{
+    background-color: #ffffff;
+    
+}
+.color-da251c{
+    color: #da251c;
+}
+.loginBtn{
+    background-color: #da251c !important;
+    color: #ffffff;
+    font-size: 1 rem;
+}
+.shadow{
+    color: #000;
+}
